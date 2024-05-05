@@ -2,7 +2,7 @@
 #include <vector>
 #include <iostream>
 #include <stdlib.h>
-
+//¸ü¸Ä 
 namespace YS{
 	class SkipList
 	{
